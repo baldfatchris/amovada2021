@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "amovada2021-executor",
+    "name": "amovada2021",
+    "region": "eu-west-2"
+  },
+  "api": {
+    "id": "5rwkixg61b",
+    "module": "amovada"
+  }
+}
